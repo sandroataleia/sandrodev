@@ -1,24 +1,17 @@
 ### Olá! Eu sou o Sandro Pereira ✋🏼
 
-
-<div style="display:inline-block">
-
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg 
 )](http://monip.org)
-
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white 
 )](http://monip.org)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white 
 )](http://monip.org)
-
-</div>
-
-
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
 )](http://monip.org)
 
 ![Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrodev&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrodev)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia
 
